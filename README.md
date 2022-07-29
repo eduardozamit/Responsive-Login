@@ -6,8 +6,11 @@ Além disso essa página de login com uma paleta de cores dark será totalmente 
 
 Também foi usado o google fonts para baixar a font Noto Sans.
 
-##
-
-<img src="dark-responsive.png" alt="Login na Web">
+<div align="center">
      
-<img src="dark-responsive-smartphone.png" alt="Login na Web">     
+## Web
+<img src="dark-responsive.png" alt="In Web">
+
+## Smartphones     
+<img src="dark-responsive-smartphone.png" alt="In Smartphone">     
+</div>
